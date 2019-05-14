@@ -30,9 +30,9 @@
 	text-align: center;
 }
 
-#content-2 {
+/* #content-2 {
 	background-color: #383f4b;
-}
+} */
 
 #content-3 {
 	background-color: #3d384b;
@@ -206,9 +206,9 @@
 		letter-spacing: 0.15rem;
 	}
 
-	.grim__item:nth-child(6) .grim__item-title {
+	/* .grim__item:nth-child(6) .grim__item-title {
 		font-size: 2rem;
-	}
+	} */
 
 	.grim__item:nth-child(7) .grim__item-title {
 		font-size: 2.25rem;
